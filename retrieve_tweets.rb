@@ -10,9 +10,10 @@ keywords = ["#cleantech", "#climatechange", "#cop17", "eco", "ecofriendly",
             "sustainability", "#sustainable", "#waterwednesday"]
 
 def retrieve_keyword(keyword, tweets) 
-  log = Logger.new("#{keyword}_log.txt")
   puts "Keyword #{keyword}"
+  log = Logger.new("#{keyword}_log.txt")
   search = Twitter::Search.new
+
   for i in 1..100
     begin
       s =  search.containing(keyword).page(i).fetch
@@ -26,14 +27,17 @@ def retrieve_keyword(keyword, tweets)
       retry
     end
   end
+
   tweets
 end 
 
 def backup_tweets(keyword, tweets)
   file = File.open("#{keyword}_file.txt", "a+")
+  
   tweets.each do |t|
     file.write("#{t.from_user}\n#{t.created_at}\n#{t.text}\n\n")
   end
+  
   file.close
 end 
 
