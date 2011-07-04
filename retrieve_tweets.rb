@@ -21,10 +21,12 @@ def retrieve_keyword(keyword, tweets)
       tweets += s
       puts s.first.text
       search.clear
-    rescue Errno::ETIMEDOUT
+    rescue Errno::ENOENT, Errno::ETIMEDOUT, Errno::ECONNRESET
       sleep(5)
-      log.info " Operation timed out - attempting to retry"
+      log.info "Connection error - attempting to retry"
       retry
+    rescue
+      log.info "Something unexpected happened and page #{i} wasn't retrieved"
     end
   end
 
