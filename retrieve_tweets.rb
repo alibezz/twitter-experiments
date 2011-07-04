@@ -1,5 +1,6 @@
 require "rubygems"
 require "twitter"
+require "logger"
 
 sustainability_tweets = []
 keywords = ["#cleantech", "#climatechange", "#cop17", "eco", "ecofriendly",
@@ -9,15 +10,21 @@ keywords = ["#cleantech", "#climatechange", "#cop17", "eco", "ecofriendly",
             "sustainability", "#sustainable", "#waterwednesday"]
 
 def retrieve_keyword(keyword, tweets) 
+  log = Logger.new("#{keyword}_log.txt")
   puts "Keyword #{keyword}"
   search = Twitter::Search.new
   for i in 1..100
-    s =  search.containing(keyword).page(i).fetch
-    break if s.empty?
-    tweets += s
-    puts s.first.text
-    search.clear  
-    #    sleep 10 unless i % 10
+    begin
+      s =  search.containing(keyword).page(i).fetch
+      break if s.empty?
+      tweets += s
+      puts s.first.text
+      search.clear
+    rescue Errno::ETIMEDOUT
+      sleep(5)
+      log.info " Operation timed out - attempting to retry"
+      retry
+    end
   end
   tweets
 end 
