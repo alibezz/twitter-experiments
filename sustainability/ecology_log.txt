@@ -1,0 +1,2 @@
+# Logfile created on Mon Jul 04 20:48:16 -0300 2011 by logger.rb/22285
+I, [2011-07-04T20:50:11.198783 #5883]  INFO -- : Connection error - attempting to retry
