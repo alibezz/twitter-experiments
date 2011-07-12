@@ -16,7 +16,7 @@ def retrieve_keyword(keyword, tweets)
 
   for i in 1..100
     begin
-      s =  search.containing(keyword).page(i).fetch
+      s =  search.containing(keyword).since("2011-07-08").page(i).fetch
       break if s.empty?
       tweets += s
       puts s.first.text
