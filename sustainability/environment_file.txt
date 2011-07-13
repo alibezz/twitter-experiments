@@ -412,8 +412,7 @@ IE: Art of the novel: India needs to create a more enabling environment for inno
 
 Leighton_moss
 Mon, 04 Jul 2011 20:47:32 +0000
-RT @Natures_Voice: Solving the mystery of our disappearing cuckoos http://tinyurl.com/6kdodhk
-Great work by @_BTO
+RT @Natures_Voice: Solving the mystery of our disappearing cuckoos http://tinyurl.com/6kdodhk Great work by @_BTO
 
 jessy757
 Mon, 04 Jul 2011 20:47:20 +0000
@@ -701,10 +700,7 @@ Environment Agency seeks views from local community on Devonport municipal waste
 
 errieman
 Mon, 04 Jul 2011 20:40:27 +0000
-if (System.DateTime.Now.Hour.Equals(23))
-            {
-                System.Environment.Exit(1);
-            }
+if (System.DateTime.Now.Hour.Equals(23))         {                 System.Environment.Exit(1);             }
 
 wakeupwinnipeg
 Mon, 04 Jul 2011 20:40:25 +0000
@@ -768,9 +764,7 @@ Mon, 04 Jul 2011 20:39:31 +0000
 
 SPLENDIDPROJECT
 Mon, 04 Jul 2011 20:39:16 +0000
-[Tree Hugger] Weekday Vegetarian: Mushroom Crostini: Photo Credit: Kelly Rossiter
-
-I have noticed t... http://bit.ly/kIKoQo #Environment
+[Tree Hugger] Weekday Vegetarian: Mushroom Crostini: Photo Credit: Kelly Rossiter I have noticed t... http://bit.ly/kIKoQo #Environment
 
 HawatariYumalm
 Mon, 04 Jul 2011 20:39:12 +0000
@@ -1753,8 +1747,7 @@ I've been invited to speak to the Society of Environmental Journalists - Looking
 
 JOSOLIVIER
 Mon, 04 Jul 2011 20:13:56 +0000
-Guardian:Has green movement lost its way? #Nuclear energy: man's low-carbon best friend or planet-polluting worst enemy?
-http://t.co/ptCxGAg
+Guardian:Has green movement lost its way? #Nuclear energy: man's low-carbon best friend or planet-polluting worst enemy? http://t.co/ptCxGAg
 
 sfranklin1717
 Mon, 04 Jul 2011 20:13:54 +0000
@@ -1782,8 +1775,7 @@ Mon, 04 Jul 2011 20:13:00 +0000
 
 nvoc
 Mon, 04 Jul 2011 20:12:55 +0000
-Exxon oil spills in Yellowstone River, forces evacuations
-http://t.co/fDoevup
+Exxon oil spills in Yellowstone River, forces evacuations http://t.co/fDoevup
 
 alexism1964
 Mon, 04 Jul 2011 20:12:47 +0000
@@ -2203,9 +2195,7 @@ Mon, 04 Jul 2011 20:01:38 +0000
 
 SROUW
 Mon, 04 Jul 2011 20:01:36 +0000
-Farmers Market!
-This Thursday 9 a.m. to 1 p.m. in the Environment I courtyard
-(also July 14 and 21).
+Farmers Market! This Thursday 9 a.m. to 1 p.m. in the Environment I courtyard (also July 14 and 21).
 
 robynmcintyre
 Mon, 04 Jul 2011 20:01:29 +0000
@@ -2301,8 +2291,7 @@ Mon, 04 Jul 2011 19:58:28 +0000
 
 VizualConcepts
 Mon, 04 Jul 2011 19:58:09 +0000
-Vizual Concepts brings Diva's Night Out to YOU!!! 
-Come enjoy a relaxing environment where you can do what true... http://fb.me/EWLH3iBf
+Vizual Concepts brings Diva's Night Out to YOU!!! Come enjoy a relaxing environment where you can do what true... http://fb.me/EWLH3iBf
 
 endresreil
 Mon, 04 Jul 2011 19:57:59 +0000
@@ -2418,8 +2407,7 @@ RT @weathernetwork: MT @LyndsayTWN: #Tornado warning issued for Manitoba by Envi
 
 JOSOLIVIER
 Mon, 04 Jul 2011 19:53:26 +0000
-EurActiv: Influential MEP calls for #shale gas regulation.
-http://t.co/6NGswM8
+EurActiv: Influential MEP calls for #shale gas regulation. http://t.co/6NGswM8
 
 ChaoticLuck
 Mon, 04 Jul 2011 19:53:21 +0000
@@ -3055,8 +3043,7 @@ Mon, 04 Jul 2011 19:34:54 +0000
 
 KAYOAZUL
 Mon, 04 Jul 2011 19:34:53 +0000
-RT @TroubledDays: Britain's rivers 'being ruined by demands of water companies' -
-                    Environment - The Independent http://ind.pn/jHKQdB
+RT @TroubledDays: Britain's rivers 'being ruined by demands of water companies' - Environment - The Independent http://ind.pn/jHKQdB
 
 PROFESSIONGIG
 Mon, 04 Jul 2011 19:34:27 +0000
@@ -3188,8 +3175,7 @@ Is it something in the womb? New study finds environment trumps genetics in auti
 
 INTLRevolver
 Mon, 04 Jul 2011 19:30:25 +0000
-RT @TroubledDays: Britain's rivers 'being ruined by demands of water companies' -
-                    Environment - The Independent http://ind.pn/jHKQdB
+RT @TroubledDays: Britain's rivers 'being ruined by demands of water companies' - Environment - The Independent http://ind.pn/jHKQdB
 
 ItalyAxlvt
 Mon, 04 Jul 2011 19:30:24 +0000
@@ -3437,8 +3423,7 @@ Mon, 04 Jul 2011 19:23:09 +0000
 
 JOSOLIVIER
 Mon, 04 Jul 2011 19:23:03 +0000
-Oxford academic wins right to read UEA #climate data. Decision by information commissioner hailed as landmark ruling.
-http://t.co/7Vs22S3
+Oxford academic wins right to read UEA #climate data. Decision by information commissioner hailed as landmark ruling. http://t.co/7Vs22S3
 
 Jason_Rembert
 Mon, 04 Jul 2011 19:22:53 +0000
@@ -3546,8 +3531,7 @@ RT @tweetmeme How You Can Improve The Environment By Using Rainwater Collection 
 
 training4ifrs
 Mon, 04 Jul 2011 19:20:00 +0000
--Economics &amp; Business Environment EBE - Exemption from IFA paper/module D3
--Management Accounting MA - Exemption from IFA paper/module D3
+-Economics &amp; Business Environment EBE - Exemption from IFA paper/module D3 -Management Accounting MA - Exemption from IFA paper/module D3
 
 HirataNakivu
 Mon, 04 Jul 2011 19:19:52 +0000
@@ -3767,8 +3751,7 @@ Growth, Equity, Environment and Population: Economic and Sociological Perspectiv
 
 rohit_l
 Mon, 04 Jul 2011 19:14:14 +0000
-#Arctic resource wealth poses dilemma for indigenous communities
-http://gu.com/p/3vapj/ip #Inuit #Greenland #environment
+#Arctic resource wealth poses dilemma for indigenous communities http://gu.com/p/3vapj/ip #Inuit #Greenland #environment
 
 jobsearchtips4u
 Mon, 04 Jul 2011 19:14:09 +0000
@@ -3860,8 +3843,7 @@ Drought in east Africa prompts calls to address humanitarian emergency: Charitie
 
 rohit_l
 Mon, 04 Jul 2011 19:11:02 +0000
-Melting ice caps open up #Arctic for 'white gold rush'
-http://gu.com/p/3vay6/ip #Greenland #environment #GlobalWarming
+Melting ice caps open up #Arctic for 'white gold rush' http://gu.com/p/3vay6/ip #Greenland #environment #GlobalWarming
 
 whatgreeninvest
 Mon, 04 Jul 2011 19:10:43 +0000
@@ -3929,8 +3911,7 @@ Do not the environment get inside of u!
 
 JOSOLIVIER
 Mon, 04 Jul 2011 19:08:27 +0000
-Melting ice caps open up Arctic for 'white gold rush'. Prospectors rushing to far north in hope of new mineral frontier.
-http://t.co/sblfRhM
+Melting ice caps open up Arctic for 'white gold rush'. Prospectors rushing to far north in hope of new mineral frontier. http://t.co/sblfRhM
 
 mottv
 Mon, 04 Jul 2011 19:08:10 +0000
@@ -4650,8 +4631,7 @@ Mon, 04 Jul 2011 18:42:06 +0000
 
 leongreen
 Mon, 04 Jul 2011 18:42:06 +0000
-Melting ice caps open up #Arctic for 'white #gold rush'
-http://gu.com/p/3vay6/ip
+Melting ice caps open up #Arctic for 'white #gold rush' http://gu.com/p/3vay6/ip
 
 jobo91
 Mon, 04 Jul 2011 18:41:55 +0000
@@ -5451,9 +5431,7 @@ Empty Nets: Indians, Dams, and the Columbia River (Culture and Environment in th
 
 LSchnapf
 Mon, 04 Jul 2011 18:20:27 +0000
-'Invisible pollution crisis' In UK as bad as 1950s , MPs to hear
- 
-http://t.co/vqERl0R
+'Invisible pollution crisis' In UK as bad as 1950s , MPs to hear http://t.co/vqERl0R
 
 Gipmans
 Mon, 04 Jul 2011 18:20:20 +0000
@@ -5549,8 +5527,7 @@ Interactive Map of Global Warming Effects: http://bit.ly/mcR13J #environment #gl
 
 blue_bell2011
 Mon, 04 Jul 2011 18:17:18 +0000
-Its fine to project a sense of individuality, but it should be one that's acceptable to the environment you work in.Ruth Colling
-#selfimage
+Its fine to project a sense of individuality, but it should be one that's acceptable to the environment you work in.Ruth Colling #selfimage
 
 iaafrica
 Mon, 04 Jul 2011 18:17:12 +0000
@@ -5570,15 +5547,7 @@ Int/Sr Securities Paralegal - Great work environment.: Location: Greater Vancouv
 
 BahamasWeekly
 Mon, 04 Jul 2011 18:16:28 +0000
-Environment Ministry reflects  on wisdom in celebrating anniversary: 
-
-
-         
-         
-
-         
-
-      	N... http://bit.ly/kfMuvH
+Environment Ministry reflects  on wisdom in celebrating anniversary: N... http://bit.ly/kfMuvH
 
 BeeNiiceeToYah
 Mon, 04 Jul 2011 18:16:19 +0000
@@ -5670,11 +5639,7 @@ Mon, 04 Jul 2011 18:13:01 +0000
 
 ELLCteacher
 Mon, 04 Jul 2011 18:12:54 +0000
-RT @paulallison: mothernaturenetwork:
-
-Are fireworks bad for the...: mothernaturenetwork:
-
-Are fireworks bad for the environment?... http://bit.ly/lZmjlF
+RT @paulallison: mothernaturenetwork: Are fireworks bad for the...: mothernaturenetwork: Are fireworks bad for the environment?... http://bit.ly/lZmjlF
 
 AnyRadiation
 Mon, 04 Jul 2011 18:12:36 +0000
@@ -5834,8 +5799,7 @@ Adult ego state, no space for its flow on the environment.. But its rush, applic
 
 lectricmagnetic
 Mon, 04 Jul 2011 18:05:47 +0000
-The Monolithic Dome: efficient, durable, disaster-resistant building: Filed under: Environment News
- http://bit.ly/lAMqJI
+The Monolithic Dome: efficient, durable, disaster-resistant building: Filed under: Environment News http://bit.ly/lAMqJI
 
 lylesknowsbest
 Mon, 04 Jul 2011 18:05:39 +0000
@@ -5855,9 +5819,7 @@ RT @Daggy1: If a liberal says anything about fireworks being unfriendly to the e
 
 ramanuj_shastry
 Mon, 04 Jul 2011 18:05:14 +0000
-RT @theresamax: RT “@ilovethezodiak: And then some !! 
-RT @khaaymar @EmmaWebsdale
-WOW! What a kick-ass Lizard! http://t.co/gnNtSsu  &gt;&gt;&gt; :))))”
+RT @theresamax: RT “@ilovethezodiak: And then some !! RT @khaaymar @EmmaWebsdale WOW! What a kick-ass Lizard! http://t.co/gnNtSsu  &gt;&gt;&gt; :))))”
 
 SincerelyABitch
 Mon, 04 Jul 2011 18:04:50 +0000
@@ -5893,16 +5855,11 @@ Mon, 04 Jul 2011 18:03:48 +0000
 
 Max_a_secas
 Mon, 04 Jul 2011 18:03:36 +0000
-Ballena descompuesta explota en calle taiwanesa.
-http://t.co/gFVemyg
+Ballena descompuesta explota en calle taiwanesa. http://t.co/gFVemyg
 
 modaempoesia
 Mon, 04 Jul 2011 18:03:35 +0000
-Green growth: strategics/
-Environment protection/
-Patauá: solution with ethics/
-Bags for the present fashion
-http://anelisebonaccorsi.com.br
+Green growth: strategics/ Environment protection/ Patauá: solution with ethics/ Bags for the present fashion http://anelisebonaccorsi.com.br
 
 davidatkinson89
 Mon, 04 Jul 2011 18:03:34 +0000
@@ -6014,8 +5971,7 @@ The White Horse, Helmshore serves fabulous home made food in a lovely and cosy e
 
 ethicalifa
 Mon, 04 Jul 2011 18:00:02 +0000
-Melting ice caps open up Arctic for 'white gold rush'
-http://gu.com/p/3vay6/ip
+Melting ice caps open up Arctic for 'white gold rush' http://gu.com/p/3vay6/ip
 
 Abueee
 Mon, 04 Jul 2011 17:59:59 +0000
@@ -6047,9 +6003,7 @@ sometimes I feel like I am a devil created by the environment, the lucifer effec
 
 rashidaljassim
 Thu, 07 Jul 2011 15:14:34 +0000
-RT @TGONU_EN: opinions and points of view of other factions of society.
-Mr. Huwaihi also stressed the creation of a positive environment is
-the../..
+RT @TGONU_EN: opinions and points of view of other factions of society. Mr. Huwaihi also stressed the creation of a positive environment is the../..
 
 BarefootFloor
 Thu, 07 Jul 2011 15:14:33 +0000
@@ -6073,8 +6027,7 @@ I just signed a petition to protect Canada's environment and stop the #megaquarr
 
 WillHDawson
 Thu, 07 Jul 2011 15:14:05 +0000
-Green energy inv up 32% and
- developing nations invested more in green power than rich nations for the first time. http://bbc.in/nhncKO
+Green energy inv up 32% and developing nations invested more in green power than rich nations for the first time. http://bbc.in/nhncKO
 
 ShouOukigt
 Thu, 07 Jul 2011 15:14:04 +0000
@@ -6334,9 +6287,7 @@ Immune Crossover II - the Two Faces of Immunity - the Lost Environment:  http://
 
 GlobalBISCUE
 Thu, 07 Jul 2011 15:09:58 +0000
-グリーンエネルギー投資、2010は32％増加で記録的高さに
-Green energy investment hits record global high
-http://t.co/52zBFTz #eco
+グリーンエネルギー投資、2010は32％増加で記録的高さに Green energy investment hits record global high http://t.co/52zBFTz #eco
 
 BrittniKohli317
 Thu, 07 Jul 2011 15:09:51 +0000
@@ -6352,9 +6303,7 @@ I just signed a petition to protect Canada's environment and stop the #megaquarr
 
 mbaxteriema
 Thu, 07 Jul 2011 15:09:38 +0000
-Shelving of energy bill shows government is not serious about its green agenda | Meg Hillier
-http://gu.com/p/3vd33/ip
-via @guardian
+Shelving of energy bill shows government is not serious about its green agenda | Meg Hillier http://gu.com/p/3vd33/ip via @guardian
 
 FOE_Scotland
 Thu, 07 Jul 2011 15:09:35 +0000
@@ -6442,9 +6391,7 @@ Not so worthy of fireworks: America's oil addiction: Yet while we were off revel
 
 mbaxteriema
 Thu, 07 Jul 2011 15:08:10 +0000
-Treasury trolls told 'green' and 'growth' can go together | Damian Carrington
-http://gu.com/p/3vd2t/ip
-via @guardian
+Treasury trolls told 'green' and 'growth' can go together | Damian Carrington http://gu.com/p/3vd2t/ip via @guardian 
 
 Sarasalhh
 Thu, 07 Jul 2011 15:08:09 +0000
@@ -7368,8 +7315,7 @@ I just signed a petition to protect Canada's environment and stop the #megaquarr
 
 iJacquie
 Thu, 07 Jul 2011 14:53:16 +0000
-'I hate driving behind Prius' cuz they're so conciencious about the environment and drive so slow..for the earth' 
--aunt w/ earthy car
+'I hate driving behind Prius' cuz they're so conciencious about the environment and drive so slow..for the earth' -aunt w/ earthy car
 
 ItzMish
 Thu, 07 Jul 2011 14:53:14 +0000
@@ -7505,8 +7451,7 @@ Talking About Food and the Environment (Healthy Living):  http://amzn.to/lrmr5M
 
 JanOfManyTrades
 Thu, 07 Jul 2011 14:51:42 +0000
-MediaShift . Is Digital Media Worse for the Environment Than Print? | PBS http://t.co/xE2VxOz
-What do you think?
+MediaShift . Is Digital Media Worse for the Environment Than Print? | PBS http://t.co/xE2VxOz What do you think?
 
 domrichardsX
 Thu, 07 Jul 2011 14:51:37 +0000
@@ -7710,8 +7655,7 @@ Now installing the K12LTSP on VMFusion.  Virtual Machines make playing with linu
 
 nazebot
 Thu, 07 Jul 2011 14:48:46 +0000
-AFPBB News デボン紀から4億年変わっていない顎の形、英科学誌
-http://bit.ly/nEBTO2 via @afpbbcom
+AFPBB News デボン紀から4億年変わっていない顎の形、英科学誌 http://bit.ly/nEBTO2 via @afpbbcom
 
 ntfnewgraduates
 Thu, 07 Jul 2011 14:48:43 +0000
@@ -7855,8 +7799,7 @@ Healthcare Design Blog | Infection Control by Design by Tom Harvey: http://t.co/
 
 nazebot
 Thu, 07 Jul 2011 14:46:55 +0000
-AFPBB News 中国が燃やす石炭で温暖化一時止まる、米研究
-http://bit.ly/nL5KHV via @afpbbcom
+AFPBB News 中国が燃やす石炭で温暖化一時止まる、米研究 http://bit.ly/nL5KHV via @afpbbcom
 
 jagreda
 Thu, 07 Jul 2011 14:46:53 +0000
@@ -8004,8 +7947,7 @@ The Natural Choice: securing the value of nature. Tony Whitbread assess the Natu
 
 nazebot
 Thu, 07 Jul 2011 14:45:03 +0000
-AFPBB News 「NASAには新たな技術的躍進が必要」、オバマ米大統領
-http://bit.ly/n0AAjA via @afpbbcom
+AFPBB News 「NASAには新たな技術的躍進が必要」、オバマ米大統領 http://bit.ly/n0AAjA via @afpbbcom
 
 wkenneth
 Thu, 07 Jul 2011 14:44:58 +0000
@@ -8197,8 +8139,7 @@ Thu, 07 Jul 2011 14:42:20 +0000
 
 nazebot
 Thu, 07 Jul 2011 14:42:18 +0000
-AFPBB News 古代ウォンバットの化石、オーストラリアで発見　大きさは自動車サイズ
-http://bit.ly/oe7xfT via @afpbbcom
+AFPBB News 古代ウォンバットの化石、オーストラリアで発見　大きさは自動車サイズ http://bit.ly/oe7xfT via @afpbbcom
 
 BurnEthanol
 Thu, 07 Jul 2011 14:42:15 +0000
@@ -8250,8 +8191,7 @@ I just signed a petition to protect Canada's environment and stop the #megaquarr
 
 S3Dcc
 Thu, 07 Jul 2011 14:41:40 +0000
-اعمل في بيئه تلهمك .,
-Work in an environment that inspires you .,
+اعمل في بيئه تلهمك ., Work in an environment that inspires you .,
 
 luyifaizah
 Thu, 07 Jul 2011 14:41:36 +0000
@@ -8559,8 +8499,7 @@ RT @Kamil_ace: environment u dgn skola sgt berbeza, no wonder ade yg gagal kat u
 
 EnConNetwork
 Thu, 07 Jul 2011 14:37:20 +0000
-RT @makingcoalclean: Tough new clean-air rules will target drifting pollution http://usat.ly/nRirYw
-Eco Power Solution has the answer at the right cost.
+RT @makingcoalclean: Tough new clean-air rules will target drifting pollution http://usat.ly/nRirYw Eco Power Solution has the answer at the right cost.
 
 RANAinbloom
 Thu, 07 Jul 2011 14:37:16 +0000
@@ -8872,8 +8811,7 @@ Thu, 07 Jul 2011 14:32:58 +0000
 
 531aki
 Thu, 07 Jul 2011 14:32:57 +0000
-おもしろいニュース。温暖化の原因と言われていた石炭が実は・・・・・・
-中国が燃やす石炭で温暖化一時止まる、米研究　国際ニュース : AFPBB News http://t.co/k27MX9T via @afpbbcom
+おもしろいニュース。温暖化の原因と言われていた石炭が実は・・・・・・ 中国が燃やす石炭で温暖化一時止まる、米研究　国際ニュース : AFPBB News http://t.co/k27MX9T via @afpbbcom
 
 Itsme_Tiarra
 Thu, 07 Jul 2011 14:32:50 +0000
@@ -9014,17 +8952,7 @@ Thu, 07 Jul 2011 14:31:11 +0000
 
 jobxo
 Thu, 07 Jul 2011 14:31:09 +0000
-★SUMMER JOBS FOR THE ENVIRONMENT! HELP PROTECT NY's DRINKING WATER! (TriBeCa): 
-	 
-	 
- 
- 
-	
- 
-	 
-					 
-							 
-NY...  http://jobxo.com/
+★SUMMER JOBS FOR THE ENVIRONMENT! HELP PROTECT NY's DRINKING WATER! (TriBeCa): NY...  http://jobxo.com/
 
 SleepingGiantUK
 Thu, 07 Jul 2011 14:31:09 +0000
@@ -9072,11 +9000,7 @@ Fossil fuels may lead to an atmospheric condition on Earth similar to that of Ve
 
 CCTVHotDeals
 Thu, 07 Jul 2011 14:30:48 +0000
-Features
-
-* 1/4&quot; Color CMOS Image Sensor
-* 10 Infrared LED, Automatic Operate in Dark Environment
-* IR Night... http://fb.me/F2bsznVs
+Features * 1/4&quot; Color CMOS Image Sensor * 10 Infrared LED, Automatic Operate in Dark Environment * IR Night... http://fb.me/F2bsznVs
 
 Ergo_Iam
 Thu, 07 Jul 2011 14:30:47 +0000
@@ -9104,8 +9028,7 @@ New #job: Safety and Environment Engineer Location: Wiltshire Salary: GBP33k - G
 
 TheJackieCaine
 Thu, 07 Jul 2011 14:30:33 +0000
-getting everone involved in tree research -
- http://t.co/aWB3CnA via @guardian
+getting everone involved in tree research -  http://t.co/aWB3CnA via @guardian
 
 gonsfx
 Thu, 07 Jul 2011 14:30:30 +0000
@@ -9125,8 +9048,7 @@ Anarchy and the Environment: The International Relations of Common Pool Resource
 
 GoGreenAnd_Save
 Thu, 07 Jul 2011 14:30:24 +0000
-This Will Save Your Environment:  Green Living: Low-Impact Summer 
-http://ow.ly/5xWTU
+This Will Save Your Environment:  Green Living: Low-Impact Summer http://ow.ly/5xWTU
 
 JUICE_MONSTA
 Thu, 07 Jul 2011 14:30:23 +0000
@@ -9294,10 +9216,7 @@ Thu, 07 Jul 2011 14:27:46 +0000
 
 edronmac
 Thu, 07 Jul 2011 14:27:44 +0000
-SUMMER JOBS TO PROTECT THE ENVIRONMENT! $10-15/HR! (Evanston/ Chicago):  
-
- 
-This was the summer job of a Rhodes... http://bit.ly/qGe36K
+SUMMER JOBS TO PROTECT THE ENVIRONMENT! $10-15/HR! (Evanston/ Chicago): This was the summer job of a Rhodes... http://bit.ly/qGe36K
 
 saamATL
 Thu, 07 Jul 2011 14:27:43 +0000
@@ -9585,8 +9504,7 @@ RT @bbcscitech: VIDEO: The underground lives of puffins http://bbc.in/pbdnsb
 
 angelogarcia3
 Thu, 07 Jul 2011 14:22:42 +0000
-[Future Environment Designs] North Country Chamber of Commerce's
- Business Exp...
+[Future Environment Designs] North Country Chamber of Commerce's Business Exp...
 
 _michaelkent_
 Thu, 07 Jul 2011 14:22:25 +0000
@@ -9626,8 +9544,7 @@ You set the tone for how great of a life you will lead...if you change, your env
 
 UP_Environment
 Thu, 07 Jul 2011 14:22:11 +0000
-British conkers under threat from alien moth invasion http://bit.ly/qUkwv7
- #environment
+British conkers under threat from alien moth invasion http://bit.ly/qUkwv7 #environment
 
 380Dentist
 Thu, 07 Jul 2011 14:22:11 +0000
@@ -9755,8 +9672,7 @@ Sorry I'm a product of my environment
 
 dog_race
 Thu, 07 Jul 2011 14:20:11 +0000
-http://tinyurl.com/6dqleej 
-The Physical Environment: Table of Contents
+http://tinyurl.com/6dqleej The Physical Environment: Table of Contents
 
 WritersInkhorn
 Thu, 07 Jul 2011 14:20:09 +0000
@@ -9828,9 +9744,7 @@ NW Environmental News: Gluten-free grain, farming alternatives and reliable ambe
 
 SPLENDIDPROJECT
 Thu, 07 Jul 2011 14:18:57 +0000
-[Tree Hugger] The TreeHugger Recap: Wednesday, July 6, 2011: Image: NASA; ESA; G. Bacon, STScI
-
-Wit... http://bit.ly/nzFVLK #Environment
+[Tree Hugger] The TreeHugger Recap: Wednesday, July 6, 2011: Image: NASA; ESA; G. Bacon, STScI Wit... http://bit.ly/nzFVLK #Environment
 
 SPLENDIDPROJECT
 Thu, 07 Jul 2011 14:18:57 +0000
@@ -9854,8 +9768,7 @@ Economics of the Environment: Theory and Policy:  http://amzn.to/mG9Y2e
 
 InterZin_Judith
 Thu, 07 Jul 2011 14:18:46 +0000
-Provider Influence on the Home Learning Environment http://t.co/PWyMh5p
-@lesley
+Provider Influence on the Home Learning Environment http://t.co/PWyMh5p @lesley
 
 in_a_tent
 Thu, 07 Jul 2011 14:18:35 +0000
@@ -9887,8 +9800,7 @@ RT @DevonWildlife: DWT is officially taking over management of South Efford Mars
 
 Realtime_CG
 Thu, 07 Jul 2011 14:18:21 +0000
-Screen grab of our latest Realtime Environment. Follow us 
-#architecture #interior #realtime #cgi #3d #design  http://t.co/mm5vLIK
+Screen grab of our latest Realtime Environment. Follow us #architecture #interior #realtime #cgi #3d #design  http://t.co/mm5vLIK
 
 alergyalysa
 Thu, 07 Jul 2011 14:18:16 +0000
@@ -10256,9 +10168,7 @@ Need a DB2 DBA from a Z/OS environment for my client in North Jersey: http://lnk
 
 reesassociates
 Thu, 07 Jul 2011 14:12:28 +0000
-INDOOR AIR QUALITY IN THE K-12 ENVIRONMENT
-
-Recently, I was fortunate to interact with Jerry Lamping, the Director... http://fb.me/VfgeOX3j
+INDOOR AIR QUALITY IN THE K-12 ENVIRONMENT Recently, I was fortunate to interact with Jerry Lamping, the Director... http://fb.me/VfgeOX3j
 
 Nod_of_Science
 Thu, 07 Jul 2011 14:12:27 +0000
@@ -10510,8 +10420,7 @@ Thu, 07 Jul 2011 14:07:41 +0000
 
 tomoc105
 Thu, 07 Jul 2011 14:07:40 +0000
-これも怖～い！猛暑って…？関係なさそうだよね？“@purinmukku: 栃木県那須でも異変　ジャガイモにトマトのような実がなる
-http://t.co/pC802zP”
+これも怖～い！猛暑って…？関係なさそうだよね？“@purinmukku: 栃木県那須でも異変　ジャガイモにトマトのような実がなる http://t.co/pC802zP”
 
 Northup69
 Thu, 07 Jul 2011 14:07:31 +0000
@@ -10623,9 +10532,7 @@ Thu, 07 Jul 2011 14:05:40 +0000
 
 vistaheads
 Thu, 07 Jul 2011 14:05:36 +0000
-RubyMine 3.2: Perform Ruby programming in a smart environment with your PC.
-
-More...... http://bit.ly/n3PaTr
+RubyMine 3.2: Perform Ruby programming in a smart environment with your PC. More...... http://bit.ly/n3PaTr
 
 Redduckbooks
 Thu, 07 Jul 2011 14:05:28 +0000
@@ -11708,9 +11615,7 @@ My boss could not make my work environment more uncomfortable.  She could try, b
 
 Unvrslconscious
 Thu, 07 Jul 2011 13:49:39 +0000
-RT @columbiawater: MSN: Oil leak not sealed as quickly as Exxon claimed
-http://on.msnbc.com/pHpznK
-#oil #spill #yellowstone #river
+RT @columbiawater: MSN: Oil leak not sealed as quickly as Exxon claimed http://on.msnbc.com/pHpznK #oil #spill #yellowstone #river
 
 JoeHa18
 Thu, 07 Jul 2011 13:49:36 +0000
@@ -11782,8 +11687,7 @@ The Subcommittee on Interior and Environment just voted to report the FY12 Inter
 
 taka_koya
 Thu, 07 Jul 2011 13:48:09 +0000
-AFPBB News フェイスブックがスカイプと提携、ビデオチャットを提供
-http://bit.ly/nxbOFy via @afpbbcom
+AFPBB News フェイスブックがスカイプと提携、ビデオチャットを提供 http://bit.ly/nxbOFy via @afpbbcom
 
 jillsaintcyr
 Thu, 07 Jul 2011 13:48:05 +0000
@@ -12331,9 +12235,7 @@ Truth be told, I do not react really well in a clustered environment. I tend to 
 
 EmmyMPR
 Fri, 08 Jul 2011 22:39:53 +0000
-Please watch and sign the petition!! -- PitStop - Stop the Quarry http://t.co/D0V34DS via @youtube
-
-#toronto #ontario #environment #Canada
+Please watch and sign the petition!! -- PitStop - Stop the Quarry http://t.co/D0V34DS via @youtube #toronto #ontario #environment #Canada
 
 BlackFrankLuntz
 Fri, 08 Jul 2011 22:39:52 +0000
@@ -12589,8 +12491,7 @@ Agricultural co-operatives: a win-win for the environment and economy?: Why are 
 
 KurageHime
 Fri, 08 Jul 2011 22:31:22 +0000
-RT @Aqua_hiro: マグロ類3種が絶滅危機に、国際機関のレッドリスト入り
-http://bit.ly/nR008C via @afpbbcom
+RT @Aqua_hiro: マグロ類3種が絶滅危機に、国際機関のレッドリスト入り http://bit.ly/nR008C via @afpbbcom
 
 FWaterSys
 Fri, 08 Jul 2011 22:31:15 +0000
@@ -12678,9 +12579,7 @@ Gizmo says try to give the dryer a rest. Hang clothes up if you can. http://t.co
 
 CalvinCCox
 Fri, 08 Jul 2011 22:28:40 +0000
-I just signed a petition to protect Canada's environment and stop the #megaquarry. Join me! @LindaJeffrey http://t.co/mw6pmxH 
-
-Calvin Cox
+I just signed a petition to protect Canada's environment and stop the #megaquarry. Join me! @LindaJeffrey http://t.co/mw6pmxH Calvin Cox
 
 illyeah
 Fri, 08 Jul 2011 22:28:39 +0000
@@ -13072,8 +12971,7 @@ Fri, 08 Jul 2011 22:18:23 +0000
 
 MarynPaulsen
 Fri, 08 Jul 2011 22:18:18 +0000
-Guy on our bus is sharpening a knife,
-WHAT THE FUCK?! Do I need to get off? Fuck saving the environment, driving next time.
+Guy on our bus is sharpening a knife, WHAT THE FUCK?! Do I need to get off? Fuck saving the environment, driving next time.
 
 PopeFelix23
 Fri, 08 Jul 2011 22:18:13 +0000
@@ -13145,8 +13043,7 @@ this is an environment of welcoming, and you should just get the hell outta here
 
 kevin_corbett
 Fri, 08 Jul 2011 22:15:07 +0000
-Make any web page print friendly--save money &amp; the environment. #edchat
-http://www.printfriendly.com  r there other sites that save paper?
+Make any web page print friendly--save money &amp; the environment. #edchat http://www.printfriendly.com  r there other sites that save paper?
 
 shimonchik
 Fri, 08 Jul 2011 22:14:57 +0000
@@ -13202,8 +13099,7 @@ Governance, Politics and the Environment: A Singapore Study:  http://amzn.to/lOS
 
 rebecca_haisma
 Fri, 08 Jul 2011 22:14:22 +0000
-http://t.co/rYlnQMg
-The effect of environment on autism.
+http://t.co/rYlnQMg The effect of environment on autism.
 
 KikusitaYuliaro
 Fri, 08 Jul 2011 22:14:19 +0000
@@ -13435,8 +13331,7 @@ Fri, 08 Jul 2011 22:07:17 +0000
 
 lectricmagnetic
 Fri, 08 Jul 2011 22:07:06 +0000
-Oregonians now recycling more than half their old paint: Filed under: Environment News
- http://bit.ly/nzKskj
+Oregonians now recycling more than half their old paint: Filed under: Environment News http://bit.ly/nzKskj
 
 Airportlawyers
 Fri, 08 Jul 2011 22:07:02 +0000
@@ -13520,9 +13415,7 @@ RT @EPAgov: Don’t forget about EPA’s Apps for the Environment Challenge! Use
 
 ghe00662
 Fri, 08 Jul 2011 22:05:29 +0000
-ここいらには、7iは少ないよぉ〜。
-AFPBB News セブン＆アイ、全国1万4000店に無線LAN導入
-http://bit.ly/oyrTmh via @afpbbcom
+ここいらには、7iは少ないよぉ〜。AFPBB News セブン＆アイ、全国1万4000店に無線LAN導入 http://bit.ly/oyrTmh via @afpbbcom
 
 tanayasharma
 Fri, 08 Jul 2011 22:05:29 +0000
@@ -13690,8 +13583,7 @@ BBC News - Dorset pliosaur: ‘Most fearsome predator’ unveiled http://bbc.in/
 
 Wholeearthmeats
 Fri, 08 Jul 2011 22:00:19 +0000
-What about the &quot;old?&quot;
-RT @MotherJones: Wait, Did the USDA Just Deregulate All New GMO Crops? http://mojo.ly/qASxnz
+What about the &quot;old?&quot; RT @MotherJones: Wait, Did the USDA Just Deregulate All New GMO Crops? http://mojo.ly/qASxnz
 
 CritterClub
 Fri, 08 Jul 2011 22:00:16 +0000
@@ -13867,8 +13759,7 @@ RT @serafinowicz: Please consider the environment before printing out this tweet
 
 snocounty
 Fri, 08 Jul 2011 21:56:46 +0000
-Evergreen Speedway, NASCAR Team Up to Protect Environment
-http://t.co/JEdJTiK
+Evergreen Speedway, NASCAR Team Up to Protect Environment http://t.co/JEdJTiK
 
 ourearth_ou
 Fri, 08 Jul 2011 21:56:35 +0000
@@ -13884,8 +13775,7 @@ If Reps don't dismantle n nxt 30 days RT @TaigaCompany: New EPA Cross-State Air 
 
 WalterJPalmer
 Fri, 08 Jul 2011 21:56:20 +0000
-RT @ClaraJeffery: Wait, did the @USDA just quietly deregulate all new genetically
-modified crops? http://t.co/zAPSwYZ
+RT @ClaraJeffery: Wait, did the @USDA just quietly deregulate all new genetically modified crops? http://t.co/zAPSwYZ
 
 Nezyah
 Fri, 08 Jul 2011 21:56:16 +0000
@@ -14049,8 +13939,7 @@ Energy Storage Systems in Developing Countries (Natural Resources and the Enviro
 
 MPBNnews
 Fri, 08 Jul 2011 21:51:57 +0000
-Maine Caught in Environment vs. Border Protection Debate in Congress
-http://t.co/eNeD6Ys
+Maine Caught in Environment vs. Border Protection Debate in Congress http://t.co/eNeD6Ys
 
 crako_m
 Fri, 08 Jul 2011 21:51:45 +0000
@@ -14270,8 +14159,7 @@ Assistant Manager for Microsoft Retail, based in Seattle. The Assistant Manager 
 
 NewPhaedrus
 Fri, 08 Jul 2011 21:45:36 +0000
-Parasites make sex worthwhile - http://www.bbc.co.uk/news/science-environment-14046316
-&lt;&lt; Thank parasites!
+Parasites make sex worthwhile - http://www.bbc.co.uk/news/science-environment-14046316 &lt;&lt; Thank parasites!
 
 jeff_hollander
 Fri, 08 Jul 2011 21:45:32 +0000
@@ -14319,9 +14207,7 @@ A closer look at the real environmental impacts of Hybrid vehicles: http://t.co/
 
 JusJane53
 Fri, 08 Jul 2011 21:44:10 +0000
-Country diary: Newbridge, West Sussex
-http://gu.com/p/3ve6t/ip
-via @guardian
+Country diary: Newbridge, West Sussex http://gu.com/p/3ve6t/ip via @guardian
 
 sharika_
 Fri, 08 Jul 2011 21:44:06 +0000
@@ -14337,9 +14223,7 @@ Nale and Lebese have that special ability to make things happen .it's the coache
 
 JusJane53
 Fri, 08 Jul 2011 21:43:56 +0000
-Have jellyfish come to rule the waves? | George Monbiot
-http://gu.com/p/3vdpv/ip
-via @guardian
+Have jellyfish come to rule the waves? | George Monbiot http://gu.com/p/3vdpv/ip via @guardian
 
 BeyondClassyC
 Fri, 08 Jul 2011 21:43:50 +0000
@@ -14359,9 +14243,7 @@ Fri, 08 Jul 2011 21:43:42 +0000
 
 JusJane53
 Fri, 08 Jul 2011 21:43:41 +0000
-The transformation of the Chaco is an ecological and human tragedy | John Vidal
-http://gu.com/p/3ve39/ip
-via @guardian
+The transformation of the Chaco is an ecological and human tragedy | John Vidal http://gu.com/p/3ve39/ip via @guardian
 
 ARC_Teesside
 Fri, 08 Jul 2011 21:43:37 +0000
@@ -14401,11 +14283,7 @@ RT @alenatsemchyk: Alena Tsemchyk: Try to Save Environment! http://t.co/b1tYaMb
 
 Saturday_Paper
 Fri, 08 Jul 2011 21:42:00 +0000
-ConocoPhillips working with
-Chinese Communist Party
-Central Committee CNOOC
-coverup 840 sqkm Bohai Oil Spill for a month
-http://t.co/QPsCuIo
+ConocoPhillips working with Chinese Communist Party Central Committee CNOOC coverup 840 sqkm Bohai Oil Spill for a month http://t.co/QPsCuIo
 
 EmilyhwOK
 Fri, 08 Jul 2011 21:41:58 +0000
@@ -14421,9 +14299,7 @@ Snow falls in Atacama, most on record in 20yrs - http://www.bbc.co.uk/news/scien
 
 BillChilton
 Fri, 08 Jul 2011 21:41:27 +0000
-Re: cycling.
-
-Good for the environment.
+Re: cycling. Good for the environment.
 
 madscientist49
 Fri, 08 Jul 2011 21:41:26 +0000
@@ -14886,8 +14762,7 @@ Barely a sniff of trouble, so Greens say it's time to call off the dogs - @SMH_n
 
 krparadis
 Fri, 08 Jul 2011 21:31:07 +0000
-RT @laurenj_ellis: Wait, did the @USDA just quietly deregulate all new genetically
-modified crops? http://t.co/HwTFYE4
+RT @laurenj_ellis: Wait, did the @USDA just quietly deregulate all new genetically modified crops? http://t.co/HwTFYE4
 
 m_m_campbell
 Fri, 08 Jul 2011 21:30:45 +0000
@@ -15343,9 +15218,7 @@ Changing politics, priorities and industry development in the USA. Corn Ethanol 
 
 azza_D_ag_E
 Fri, 08 Jul 2011 21:22:26 +0000
-“@smh_news:Barely a sniff of trouble,http://t.co/FgevmXF #australia 
-
-Keep the dogs! Kids love them. Druggies hate them. They are terrific!
+“@smh_news:Barely a sniff of trouble,http://t.co/FgevmXF #australia Keep the dogs! Kids love them. Druggies hate them. They are terrific!
 
 3January2013
 Fri, 08 Jul 2011 21:22:23 +0000
@@ -15597,14 +15470,11 @@ Down by the river smokin stanky danky where the bullshit jump from bank to bank 
 
 azor013
 Fri, 08 Jul 2011 21:17:04 +0000
-Study: Environment plays larger role in autism
-
-http://t.co/0wckn1Y
+Study: Environment plays larger role in autism http://t.co/0wckn1Y
 
 SEXYGOLDIE
 Fri, 08 Jul 2011 21:17:04 +0000
-A good director creates an environment, which gives the actor the encouragement to fly. 
-Kevin Bacon
+A good director creates an environment, which gives the actor the encouragement to fly. Kevin Bacon
 
 StretchedOctave
 Fri, 08 Jul 2011 21:16:57 +0000
@@ -15904,8 +15774,7 @@ Province of #Quebec to launch cap and trade system to regulate CO2 emissions. ht
 
 moatman
 Fri, 08 Jul 2011 21:10:31 +0000
-Wait, did the @USDA just quietly deregulate all new genetically
-modified crops? http://t.co/3Mft8sb
+Wait, did the @USDA just quietly deregulate all new genetically modified crops? http://t.co/3Mft8sb
 
 3pStaff
 Fri, 08 Jul 2011 21:10:28 +0000
@@ -15953,8 +15822,7 @@ Fri, 08 Jul 2011 21:09:33 +0000
 
 CornoDiBassetto
 Fri, 08 Jul 2011 21:09:28 +0000
-RT @ClaraJeffery: Wait, did the @USDA just quietly deregulate all new genetically
-modified crops? http://t.co/zAPSwYZ
+RT @ClaraJeffery: Wait, did the @USDA just quietly deregulate all new genetically modified crops? http://t.co/zAPSwYZ
 
 ABui22
 Fri, 08 Jul 2011 21:09:22 +0000
@@ -16146,8 +16014,7 @@ Meet Earth's 'most fearsome predator' http://t.co/W8lOliU #science #evolution #f
 
 lectricmagnetic
 Fri, 08 Jul 2011 21:06:32 +0000
-Wait, Did the USDA Just Deregulate All New Genetically Modified Crops?: Filed under: Environment News
- http://bit.ly/ovn3Sy
+Wait, Did the USDA Just Deregulate All New Genetically Modified Crops?: Filed under: Environment News  http://bit.ly/ovn3Sy
 
 Miss_Toya09
 Fri, 08 Jul 2011 21:06:28 +0000
@@ -16215,8 +16082,7 @@ RT @MotherJones: Wait, Did the USDA Just Deregulate All New GMO Crops? http://mo
 
 YazMatsuki
 Fri, 08 Jul 2011 21:05:17 +0000
-AFPBB News ロボットもW杯、ロボカップ2011
-http://bit.ly/nOxCoo via @afpbbcom
+AFPBB News ロボットもW杯、ロボカップ2011 http://bit.ly/nOxCoo via @afpbbcom
 
 cleanairnetwork
 Fri, 08 Jul 2011 21:05:15 +0000
@@ -16228,8 +16094,7 @@ RT @SoCalNeuroPsych: The power of positive thinking! Since we create our environ
 
 CouncillorMB
 Fri, 08 Jul 2011 21:05:10 +0000
-Please join me on Saturday July 9th for Ward 35 Community Environment Day! 10am – 2pm at
-  SATEC@W.A Porter Collegiate http://www.toront...
+Please join me on Saturday July 9th for Ward 35 Community Environment Day! 10am – 2pm at SATEC@W.A Porter Collegiate http://www.toront...
 
 tim_wylie
 Fri, 08 Jul 2011 21:05:08 +0000
@@ -16305,8 +16170,7 @@ Environment, as well as genetics, plays a role in autism, researchers say. http:
 
 YazMatsuki
 Fri, 08 Jul 2011 21:03:42 +0000
-AFPBB News セブン＆アイ、全国1万4000店に無線LAN導入
-http://bit.ly/oyrTmh via @afpbbcom
+AFPBB News セブン＆アイ、全国1万4000店に無線LAN導入 http://bit.ly/oyrTmh via @afpbbcom
 
 Lilian_xx1
 Fri, 08 Jul 2011 21:03:40 +0000
@@ -16374,8 +16238,7 @@ I just signed a petition to protect Canada's environment and stop the #megaquarr
 
 YazMatsuki
 Fri, 08 Jul 2011 21:02:07 +0000
-AFPBB News ホッキョクグマの故郷、実はアイルランド 異種交配も10万年前から
-http://bit.ly/omNOUx via @afpbbcom
+AFPBB News ホッキョクグマの故郷、実はアイルランド 異種交配も10万年前から http://bit.ly/omNOUx via @afpbbcom
 
 MagneticCrow
 Fri, 08 Jul 2011 21:02:07 +0000
@@ -16407,8 +16270,7 @@ RT @DavidSuzukiFDN: Protecting the environment is also about defending humanity 
 
 YazMatsuki
 Fri, 08 Jul 2011 21:01:13 +0000
-AFPBB News マグロ類3種が絶滅危機に、国際機関のレッドリスト
-http://bit.ly/nR008C via @afpbbcom
+AFPBB News マグロ類3種が絶滅危機に、国際機関のレッドリスト http://bit.ly/nR008C via @afpbbcom
 
 designworkplan
 Fri, 08 Jul 2011 21:01:11 +0000
@@ -16496,8 +16358,7 @@ Mitsubishi i Electric Car Rated 112 MPGe by EPA #environment #green http://bit.l
 
 YazMatsuki
 Fri, 08 Jul 2011 21:00:46 +0000
-AFPBB News 米アップル「App Store」のアプリダウンロード数 150億本超える
-http://bit.ly/o7or3i via @afpbbcom
+AFPBB News 米アップル「App Store」のアプリダウンロード数 150億本超える http://bit.ly/o7or3i via @afpbbcom
 
 KyamiriKanonsq
 Fri, 08 Jul 2011 21:00:36 +0000
@@ -16537,8 +16398,7 @@ Cant Wait Fa Dat Howard Environment imma Be #Spillin =)
 
 ProbWithPalmOil
 Fri, 08 Jul 2011 21:00:10 +0000
-@Cargill opens environmental education center in MN. Should a #rainforest
-destroyer teach kids about the #environment? http://ow.ly/5zjGu
+@Cargill opens environmental education center in MN. Should a #rainforest destroyer teach kids about the #environment? http://ow.ly/5zjGu
 
 pixiemona
 Fri, 08 Jul 2011 21:00:09 +0000
@@ -16566,8 +16426,7 @@ RT @EI_EcoNewsfeed Radical changes needed to meet fising food demands. Corp agri
 
 Perceiver1219
 Fri, 08 Jul 2011 20:59:47 +0000
-RT @ClaraJeffery: Wait, did the @USDA just quietly deregulate all new genetically
-modified crops? http://t.co/zAPSwYZ
+RT @ClaraJeffery: Wait, did the @USDA just quietly deregulate all new genetically modified crops? http://t.co/zAPSwYZ
 
 rhythm7a
 Fri, 08 Jul 2011 20:59:47 +0000
@@ -16623,8 +16482,7 @@ Fascinating history of the #shuttle http://t.co/UQvmung
 
 MagsIndigo
 Fri, 08 Jul 2011 20:58:18 +0000
-And this explains IT all...
-BBC News - Worms' sex life yields advantage over parasites http://t.co/QMjDRbs
+And this explains IT all... BBC News - Worms' sex life yields advantage over parasites http://t.co/QMjDRbs
 
 PBMillar
 Fri, 08 Jul 2011 20:58:17 +0000
@@ -16776,8 +16634,7 @@ RT @EcologicalUrban: &quot;We want a population who can adapt to the changes of 
 
 sidhubaba
 Fri, 08 Jul 2011 20:54:50 +0000
-Wait, did the @USDA just quietly deregulate all new genetically
-modified crops? http://t.co/UoAIVBj
+Wait, did the @USDA just quietly deregulate all new genetically modified crops? http://t.co/UoAIVBj
 
 wraith444
 Fri, 08 Jul 2011 20:54:45 +0000
@@ -17009,8 +16866,7 @@ RT @AntoniaZ: My latest: Lake of Shame: Ontario’s pollution problem http://bit
 
 nazebot
 Fri, 08 Jul 2011 20:50:01 +0000
-AFPBB News セブン＆アイ、全国1万4000店に無線LAN導入
-http://bit.ly/oyrTmh via @afpbbcom
+AFPBB News セブン＆アイ、全国1万4000店に無線LAN導入 http://bit.ly/oyrTmh via @afpbbcom
 
 travelply
 Fri, 08 Jul 2011 20:50:00 +0000
@@ -17062,9 +16918,7 @@ Fri, 08 Jul 2011 20:49:06 +0000
 
 terriferic
 Fri, 08 Jul 2011 20:49:06 +0000
-Wait, Did the USDA Just Deregulate All New Genetically Modified Crops?: 
-
-It's a hoary bureaucratic trick, makin... http://bit.ly/nynCXZ
+Wait, Did the USDA Just Deregulate All New Genetically Modified Crops?: It's a hoary bureaucratic trick, makin... http://bit.ly/nynCXZ
 
 SHUEDA
 Fri, 08 Jul 2011 20:48:58 +0000
@@ -17092,8 +16946,7 @@ I mean how can ANYONE get sober in an environment like that?!Geeze!And that's on
 
 nazebot
 Fri, 08 Jul 2011 20:48:41 +0000
-AFPBB News ホッキョクグマの故郷、実はアイルランド 異種交配も10万年前から
-http://bit.ly/omNOUx via @afpbbcom
+AFPBB News ホッキョクグマの故郷、実はアイルランド 異種交配も10万年前から http://bit.ly/omNOUx via @afpbbcom
 
 jtallent
 Fri, 08 Jul 2011 20:48:41 +0000
@@ -17181,8 +17034,7 @@ RT @boonburger: our soft serve is 100% vegan. Thanks for making a cruelty free c
 
 RINCdotcom
 Fri, 08 Jul 2011 20:47:24 +0000
-3) The Google environment:
-http://t.co/jO0eKNR
+3) The Google environment: http://t.co/jO0eKNR
 
 ebitan
 Fri, 08 Jul 2011 20:47:23 +0000
@@ -17474,8 +17326,7 @@ RT @fastcodesign: Dresses Breathe And Glow In Response To Environment [Videos] h
 
 kenpty
 Fri, 08 Jul 2011 20:43:04 +0000
-RT @ClaraJeffery: Wait, did the @USDA just quietly deregulate all new genetically
-modified crops? http://t.co/zAPSwYZ
+RT @ClaraJeffery: Wait, did the @USDA just quietly deregulate all new genetically modified crops? http://t.co/zAPSwYZ
 
 UtterlyCoen
 Fri, 08 Jul 2011 20:42:48 +0000
@@ -17483,8 +17334,7 @@ RT @serafinowicz Please consider the environment before printing out this tweet.
 
 ASBC1
 Fri, 08 Jul 2011 20:42:44 +0000
-RT @ClaraJeffery: Wait, did the @USDA just quietly deregulate all new genetically
-modified crops? http://t.co/zAPSwYZ
+RT @ClaraJeffery: Wait, did the @USDA just quietly deregulate all new genetically modified crops? http://t.co/zAPSwYZ
 
 mr_leadership
 Fri, 08 Jul 2011 20:42:43 +0000
@@ -17492,15 +17342,11 @@ When An Adversary Enters Your Environment, Every False And Shallow Friendship Is
 
 EnviroWacko
 Fri, 08 Jul 2011 20:42:42 +0000
-Wait, Did the USDA Just Deregulate All New Genetically Modified Crops?: 
-
-It's a hoary bureaucratic trick, makin... http://bit.ly/r4J9z8
+Wait, Did the USDA Just Deregulate All New Genetically Modified Crops?: It's a hoary bureaucratic trick, makin... http://bit.ly/r4J9z8
 
 SpillBPSpill
 Fri, 08 Jul 2011 20:42:42 +0000
-Wait, Did the USDA Just Deregulate All New Genetically Modified Crops?: 
-
-It's a hoary bureaucratic trick, makin... http://bit.ly/qq0CCH
+Wait, Did the USDA Just Deregulate All New Genetically Modified Crops?: It's a hoary bureaucratic trick, makin... http://bit.ly/qq0CCH
 
 AntonHolland
 Fri, 08 Jul 2011 20:42:36 +0000
@@ -17572,8 +17418,7 @@ RT @deegree_org: Read about setting up a deegree development environment in Andr
 
 laNevaTile
 Fri, 08 Jul 2011 20:41:52 +0000
-RT @clarajeffery: Wait, did the @USDA just quietly deregulate all new genetically
-modified crops? http://t.co/zAPSwYZ
+RT @clarajeffery: Wait, did the @USDA just quietly deregulate all new genetically modified crops? http://t.co/zAPSwYZ
 
 erin_rae
 Fri, 08 Jul 2011 20:41:50 +0000
@@ -17709,8 +17554,7 @@ RT @greenroofsuk: Very interesting article - Wet summers conceal a terrible surp
 
 thegoodhuman
 Fri, 08 Jul 2011 20:39:24 +0000
-RT @ClaraJeffery: Wait, did the @USDA just quietly deregulate all new genetically
-modified crops? http://t.co/zAPSwYZ
+RT @ClaraJeffery: Wait, did the @USDA just quietly deregulate all new genetically modified crops? http://t.co/zAPSwYZ
 
 danrogl
 Fri, 08 Jul 2011 20:39:09 +0000
@@ -17930,8 +17774,7 @@ AND THIS JUST ISNT AN ACOUSTIC ENVIRONMENT, SUITABLE! TO REQUEST.THIS.FOR ME! #s
 
 kevolution
 Fri, 08 Jul 2011 20:35:44 +0000
-RT @laurenj_ellis: Wait, did the @USDA just quietly deregulate all new genetically
-modified crops? http://t.co/HwTFYE4
+RT @laurenj_ellis: Wait, did the @USDA just quietly deregulate all new genetically modified crops? http://t.co/HwTFYE4
 
 000Kayakman
 Fri, 08 Jul 2011 20:35:40 +0000
@@ -17947,9 +17790,7 @@ http://t.co/98x7ln2
 
 tweek_sf
 Fri, 08 Jul 2011 20:35:31 +0000
-History of the Space Shuttle. 
-http://t.co/EOja9l9
-#NASA
+History of the Space Shuttle. http://t.co/EOja9l9 #NASA
 
 KernowPods
 Fri, 08 Jul 2011 20:35:27 +0000
@@ -17989,8 +17830,7 @@ I just signed a petition to protect Canada's environment and stop the #megaquarr
 
 deminkwe
 Fri, 08 Jul 2011 20:35:00 +0000
-RT @ClaraJeffery: Wait, did the @USDA just quietly deregulate all new genetically
-modified crops? http://t.co/zAPSwYZ
+RT @ClaraJeffery: Wait, did the @USDA just quietly deregulate all new genetically modified crops? http://t.co/zAPSwYZ
 
 Parducci
 Fri, 08 Jul 2011 20:34:59 +0000
@@ -18146,8 +17986,7 @@ Fri, 08 Jul 2011 20:33:06 +0000
 
 ronaldmckee
 Fri, 08 Jul 2011 20:33:04 +0000
-RT @ClaraJeffery: Wait, did the @USDA just quietly deregulate all new genetically
-modified crops? http://t.co/zAPSwYZ
+RT @ClaraJeffery: Wait, did the @USDA just quietly deregulate all new genetically modified crops? http://t.co/zAPSwYZ
 
 pharmacopia
 Fri, 08 Jul 2011 20:32:59 +0000
@@ -18155,8 +17994,7 @@ At last, maybe the government is doing something to ban known toxics in our envi
 
 jfmoule
 Fri, 08 Jul 2011 20:32:57 +0000
-Not cool RT @ClaraJeffery: Wait, did the @USDA just quietly deregulate all new genetically
-modified crops? http://bit.ly/qpbtzX
+Not cool RT @ClaraJeffery: Wait, did the @USDA just quietly deregulate all new genetically modified crops? http://bit.ly/qpbtzX
 
 timothypmurphy
 Fri, 08 Jul 2011 20:32:51 +0000
