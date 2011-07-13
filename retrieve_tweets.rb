@@ -37,6 +37,7 @@ def backup_tweets(keyword, tweets)
   file = File.open("#{keyword}_file.txt", "a+")
   
   tweets.each do |t|
+    #FIXME t.whatever must fill a single line
     file.write("#{t.from_user}\n#{t.created_at}\n#{t.text}\n\n")
   end
   
